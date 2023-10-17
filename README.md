@@ -19,7 +19,7 @@
   </tr>
     <tr>
       <td>
-        <img src="#"><br>
+        <img src="assets/image/assignment1.png"><br>
       </td>
   </tr>
   <tr>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
       <td>
-        <img src="#"><br>
+        <img src="assets/image/assignment2.png"><br>
       </td>
   </tr>
     <tr>
@@ -49,7 +49,7 @@
   </tr>
     <tr>
       <td>
-        <img src="#"><br>
+        <img src="assets/image/assignment3.png"><br>
       </td>
   </tr>
     <tr>
@@ -64,7 +64,7 @@
   </tr>
     <tr>
       <td>
-        <img src="#"><br>
+        <img src="assets/image/assignment4.png"><br>
       </td>
   </tr>
 </table>
