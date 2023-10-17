@@ -1,5 +1,5 @@
-import 'project02.dart';
-import 'project03.dart';
+import 'project02.dart'; // addItemToList Function
+import 'project03.dart'; // viewList Function
 import 'dart:io';
 
 void main() {
@@ -23,7 +23,6 @@ void main() {
       exit(0);
     } else {
       print('Invalid choice. Please select 1, 2, or 3.');
-      break;
     }
   }
 }
